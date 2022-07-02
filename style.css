@@ -639,7 +639,6 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-/* 
 h2,
 h3,
 h4,
@@ -651,9 +650,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757;
 } 
-*/
 
 .container {
     max-width: 1000px;
