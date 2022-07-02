@@ -639,7 +639,7 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
+/* 
 h2,
 h3,
 h4,
@@ -652,7 +652,8 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757;
-}
+} 
+*/
 
 .container {
     max-width: 1000px;
@@ -660,6 +661,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    color: white;
 }
 
 .hero-bloc-text-sub {
@@ -781,7 +783,7 @@ h4 {
 }
 
 .tc-white {
-    color: #ffffff!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
