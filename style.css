@@ -679,7 +679,8 @@ p {
     font-size: 14px;
 }
 
-q {font-style: italic;}
+q {font-style: italic;
+    margin-bottom: 20px;}
 
 .tight-width-whitespace {
     max-width: 600px;
