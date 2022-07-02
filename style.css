@@ -58,6 +58,8 @@ a:hover {
 
 h1 {margin-bottom: 50px;}
 
+.ready {font-size: 26px;}
+
 .contactpagetext {margin: auto!important;}
 
 .bg-center,
@@ -97,6 +99,7 @@ h1 {margin-bottom: 50px;}
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
+    z-index: 0;
 }
 
 .b-parallax {
@@ -339,6 +342,7 @@ h1 {margin-bottom: 50px;}
 .nav > li a:hover,
 .nav > li a:focus {
     background: #F3976C;
+    border-radius: 40px;
 }
 
 .navbar-toggle {
