@@ -687,9 +687,7 @@ q {font-style: italic;
     margin: auto auto auto auto;
 }
 
-.h1 {
-    font-size: 20px;
-    font-family: "Open Sans";
+h1 {text-align: center;
 }
 
 .cta-hero {
@@ -982,10 +980,7 @@ footer {height: 100%;}
     }
     .bloc-xxl,
     .bloc-xl,
-    .bloc-lg {display: flex;
-        flex-direction: column;
-        align-content: center;
-        justify-content: center;
+    .bloc-lg {
         padding: 40px 0;
     }
     .bloc-sm,
