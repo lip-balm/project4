@@ -679,6 +679,8 @@ p {
     font-size: 14px;
 }
 
+q {font-style: italic;}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -712,7 +714,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: black!important;
 }
 
 .med-width-whitespace {
@@ -821,6 +823,8 @@ h3 {
 .bg-atlanta-20made-20sign-20orange {
     background-image: url("img/atlanta%20made%20sign%20orange.jpg");
 }
+
+footer {height: 100%;}
 
 @media (max-width: 1024px) {
     .bloc {
