@@ -687,8 +687,7 @@ q {font-style: italic;
     margin: auto auto auto auto;
 }
 
-h1 {text-align: center;
-}
+.text-center {text-align: center;}
 
 .cta-hero {
     margin-top: 22px;
