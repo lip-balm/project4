@@ -981,7 +981,10 @@ footer {height: 100%;}
     }
     .bloc-xxl,
     .bloc-xl,
-    .bloc-lg {
+    .bloc-lg {display: flex;
+        flex-direction: column;
+        align-content: center;
+        justify-content: center;
         padding: 40px 0;
     }
     .bloc-sm,
