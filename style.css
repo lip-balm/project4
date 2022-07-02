@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: black;
 }
 
 .d-bloc .panel button:hover,
@@ -284,7 +284,7 @@ a:hover {
 }
 
 #bloc-2-services p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .navbar {
@@ -676,7 +676,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -777,12 +777,12 @@ h3 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .ltc-white {
@@ -901,6 +901,7 @@ h3 {
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
+        color: black;
     }
     .b-parallax {
         background-attachment: scroll;
