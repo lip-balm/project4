@@ -56,6 +56,10 @@ a:hover {
     padding: 20px 50px;
 }
 
+h1 {margin-bottom: 50px;}
+
+.contactpagetext {margin: auto!important;}
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
@@ -269,7 +273,7 @@ a:hover {
 }
 
 .voffset-lg {
-    margin-top: 80px;
+    margin-top: 50px;
 }
 
 .row-no-gutters {
@@ -680,7 +684,7 @@ p {
 }
 
 q {font-style: italic;
-    margin-bottom: 20px;}
+    margin-bottom: 50px;}
 
 .tight-width-whitespace {
     max-width: 600px;
