@@ -695,6 +695,8 @@ q {font-style: italic;
     margin: auto auto auto auto;
 }
 
+.tight-width-whitespace p {margin-bottom: 15px;}
+
 .text-center {text-align: center;}
 
 .cta-hero {
