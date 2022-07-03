@@ -99,7 +99,6 @@ h1 {margin-bottom: 50px;}
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
-    z-index: 0;
 }
 
 .b-parallax {
@@ -786,6 +785,7 @@ h3 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: black!important;
+    border: none;
 }
 
 .btn-atomic-tangerine:hover {
