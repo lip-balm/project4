@@ -892,9 +892,9 @@ footer {height: 100%;}
 }
 
 @media (max-width: 991px) {
-    .container {
+    /* .container {
         width: 100%;
-    }
+    } */
     .b-parallax {
         background-attachment: scroll;
     }
