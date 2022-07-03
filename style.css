@@ -290,7 +290,7 @@ h1 {margin-bottom: 50px;}
 }
 
 #bloc-2-services p {
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .navbar {
@@ -521,7 +521,7 @@ button {
 
 label {margin: 15px;}
 
-#bloc-7 {display: flex;
+#contactrow {display: flex;
     flex-direction: row;
     justify-content: center;}
 
@@ -698,6 +698,7 @@ p {
 }
 
 q {font-style: italic;
+    font-size: 15px;
     margin-bottom: 50px;}
 
 .tight-width-whitespace {
