@@ -705,7 +705,7 @@ q {font-style: italic;
     margin-bottom: 50px;}
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 80%;
     margin: auto auto auto auto;
 }
 
@@ -722,12 +722,10 @@ q {font-style: italic;
     font-weight: 700;
 }
 
-.cards {width: 50%;
-}
+.cards {width: 50%;}
 
-#bloc-4-portfolio {display: flex;
-    flex-direction: row;
-    gap: 50px;}
+#bloc-4-portfolio {padding: 0px 30px;
+    }
 
 .social {
     max-width: 400px;
@@ -737,6 +735,7 @@ q {font-style: italic;
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    text-align: center;
 }
 
 h3 {
@@ -877,6 +876,7 @@ footer {height: 100%;}
     .nav-center.navbar .nav {
         max-width: 100%
     }
+    .cards {width: 100%;}
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
@@ -1058,6 +1058,7 @@ footer {height: 100%;}
         width: 180px;
         height: 320px;
     }
+    .cards {width: 100%;}
 }
 
 @media (max-width: 400px) {
