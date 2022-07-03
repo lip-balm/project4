@@ -517,6 +517,11 @@ button {
     box-shadow: none;
 }
 
+.form-group {gap: 30px;
+    width: 300px;}
+
+.contact-info {text-align: center;}
+
 .scrollToTop {
     width: 40px;
     height: 40px;
