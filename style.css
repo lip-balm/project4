@@ -722,7 +722,8 @@ q {font-style: italic;
     font-weight: 700;
 }
 
-.cards {width: 50%;}
+.cards {width: 50%;
+    padding: 0 25px;}
 
 #bloc-4-portfolio {padding: 0px 30px;
     }
