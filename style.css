@@ -847,10 +847,14 @@ h3 {
 
 .bg-atlanta-20made-20sign {
     background-image: url("img/atlanta%20made%20sign.jpg");
+    height: 100%;
+    width: 100%;
 }
 
 .bg-atlanta-20made-20sign-20orange {
     background-image: url("img/atlanta%20made%20sign%20orange.jpg");
+    height: 100%;
+    width: 100%;
 }
 
 footer {height: 100%;}
@@ -878,6 +882,9 @@ footer {height: 100%;}
 
 .image-resize-mode {max-width: 100px;
     max-height: 100px;}
+
+.navbar-header img {height: 100%;
+    width: 100%;}
 
 @media (max-width: 992px) and (min-width: 768px) {
     .navbar .nav {
