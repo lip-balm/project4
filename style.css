@@ -1081,8 +1081,8 @@ h3 {
     h1 {font-size: 22px;
         margin-bottom: 30px;}
     h2 {font-size: 20px;}
-
-    .nav > li a:hover,
+    
+    .nav > li a:focus,
     .nav > li a:focus {
     background: #F3976C;
     border-radius: 0px;
