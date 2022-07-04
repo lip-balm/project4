@@ -737,6 +737,9 @@ q {font-style: italic;
     margin: auto auto auto auto;
 }
 
+.social a {color: white;}
+.social a:hover {color: white;}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
