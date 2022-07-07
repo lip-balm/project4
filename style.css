@@ -49,7 +49,7 @@ a:hover {
 }
 
 .contact-block {padding-top: 60px;
-    padding-bottom: 25px;}
+    padding-bottom: 0px;}
 
 .bloc-md {
     padding: 50px;
@@ -525,7 +525,7 @@ button {
     box-shadow: none;
 }
 
-#form_1 {width: 500px;}
+/* #form_1 {width: 500px;} */
 
 .form-group {margin-bottom: 20px;}
 
@@ -1095,6 +1095,12 @@ h3 {
     background: #F3976C;
     border-radius: 0px;
 }
+    .contact-row {display: flex;
+        flex-direction: column;}
+    
+    .contact-info {width: 100%}
+        
+    .contact-form {width: 100%}
     }
 
 @media (max-width: 400px) {
