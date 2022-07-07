@@ -48,6 +48,9 @@ a:hover {
     padding: 100px 50px;
 }
 
+.contact-block {padding-top: 60px;
+    padding-bottom: 50px;}
+
 .bloc-md {
     padding: 50px;
 }
@@ -524,7 +527,7 @@ button {
 
 #form_1 {width: 500px;}
 
-label {margin: 15px;}
+.form-group {gap: 30px;}
 
 #contactrow {display: flex;
     flex-direction: row;
