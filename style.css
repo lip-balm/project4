@@ -49,7 +49,7 @@ a:hover {
 }
 
 .contact-block {padding-top: 60px;
-    padding-bottom: 50px;}
+    padding-bottom: 25px;}
 
 .bloc-md {
     padding: 50px;
@@ -527,7 +527,7 @@ button {
 
 #form_1 {width: 500px;}
 
-.form-group {gap: 30px;}
+.form-group {margin-bottom: 20px;}
 
 #contactrow {display: flex;
     flex-direction: row;
@@ -825,6 +825,9 @@ h3 {
     background: #c27956!important;
     color: black!important;
 }
+
+.contact-form-button {margin-top: 0px;
+    margin-bottom: 50px;}
 
 .ltc-white {
     color: #FFFFFF!important;
