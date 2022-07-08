@@ -1098,9 +1098,16 @@ h3 {
     .contact-row {display: flex;
         flex-direction: column;}
     
-    .contact-info {width: 100%}
+    .contact-info {width: 90%;
+        margin: auto;}
         
-    .contact-form {width: 100%}
+    .contact-form {width: 90%;
+        margin: auto;}
+
+    .social-icons {display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;}
+
     }
 
 @media (max-width: 400px) {
