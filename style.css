@@ -536,7 +536,8 @@ button {
 .contact-info {
     width: 40%}
 
-.contact-form {width: 60%}
+.contact-form {width: 55%;
+    margin-right: 35px;}
 
 .scrollToTop {
     width: 40px;
@@ -1109,7 +1110,6 @@ h3 {
         flex-direction: row;}
 
     }
-
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
