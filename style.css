@@ -848,6 +848,9 @@ h3 {
     color: #c27956!important;
 }
 
+.other-page {color: #364577;}
+.other-page:hover {color: #F3976C}
+
 .icon-dark-slate-blue {
     color: #364577!important;
     border-color: #364577!important;
